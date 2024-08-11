@@ -97,7 +97,7 @@ export default function Chat() {
       flexDirection="column"
       justifyContent="center"
       alignItems="center"
-      backgroundColor='#fffbdf'
+      backgroundColor='#B3DEE2'
     >
       <Stack
         direction="column"
@@ -130,7 +130,7 @@ export default function Chat() {
             {message.role === 'assistant' && (
               <Box
                 component="img"
-                src="/assistantAvatar.png" 
+                src="/hello.png" 
                 alt="Assistant"
                 sx={{
                   width: 55, 
@@ -143,7 +143,7 @@ export default function Chat() {
             <Box
               bgcolor={
                 message.role === 'assistant'
-                  ? '#86ba95'
+                  ? '#4C504D'
                   : '#06a177'
               }
               color="white"
@@ -196,9 +196,9 @@ export default function Chat() {
           <Button variant="contained" onClick={sendMessage} disabled={isLoading}
           sx={{
             borderRadius: '15px',
-            backgroundColor: '#06a177', 
+            backgroundColor: '#232625', 
             '&:hover': {
-              backgroundColor: '#048c66',
+              backgroundColor: '#9bd9ad',
             },
           }}>
             {isLoading ? 'Sending...' : 'Send'}
