@@ -16,3 +16,6 @@ Developed this AI-powered customer support chatbot with:
 
 
 # Cyborg-Assistant
+![image](https://github.com/user-attachments/assets/f327ff0d-0400-4da1-974f-620a940b7269)
+
+![image](https://github.com/user-attachments/assets/2abc0dbd-e0c3-4ba8-9705-940b89238242)
