@@ -1,4 +1,4 @@
-## PlantPal - AI Plant Assistant
+## CyberFit - Your AI-Powered Cyber Threat Awareness Assistant
 
 Headstarter AI - SWE Fellowship
 
